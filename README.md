@@ -13,9 +13,10 @@ An end-to-end Power BI project built to analyze sales data, track revenue metric
 ## 🖼️ Dashboard Preview
 
 ### Page 1: Sales Overview & Regional Performance
-
+![Page 1 Preview](SuperStore-Sales-Forecast-PowerBI/Dasboard/dashboard_Page1.png)
 
 ### Page 2: Advanced Analysis & Sales Forecasting
+![Page 2 Preview](SuperStore-Sales-Forecast-PowerBI/Dashboard/dashboard_Page2.png)
 
 ## 🛠️ Tech Stack & Tools Used
 * **BI Tool:** Microsoft Power BI Desktop
